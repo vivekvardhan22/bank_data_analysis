@@ -15,9 +15,9 @@ The script performs data analysis and generates insightful visualizations.
   - Scatter plots of **Age vs. Home/Loan status**.
 - Generation of multiple plots saved locally.
 
-![Education Home Loan](education_home_loan.jpg)
-![Education Home Loan Bar](education_home_loan_bar.jpg)
-![Job Home Loan](job_home_loan.jpg)
+![Education Home Loan](data/education_home_loan.jpg)
+![Education Home Loan Bar](data/education_home_loan_bar.jpg)
+![Job Home Loan](data/job_home_loan.jpg)
 
 
 ## 📂 Dataset
